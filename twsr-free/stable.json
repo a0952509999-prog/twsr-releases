@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "product": "twsr-free",
+  "channel": "stable",
+  "version": "0.1.0",
+  "commit": "086d2cc",
+  "releasedAt": "2026-11-14T15:27:43.346Z",
+  "notes": [
+    "初始版本"
+  ],
+  "urgent": false
+}
