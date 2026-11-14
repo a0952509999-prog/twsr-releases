@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "product": "twsr-b",
+  "channel": "dev",
+  "version": "0.9.0",
+  "commit": "7ef8945",
+  "releasedAt": "2026-11-14T15:15:12.089Z",
+  "notes": [
+    "初始版本"
+  ],
+  "urgent": false
+}
