@@ -2,12 +2,12 @@
   "schema": 1,
   "product": "twsr-b",
   "channel": "stable",
-  "version": "0.9.1",
-  "commit": "fb7e9c8",
-  "releasedAt": "2026-11-16T06:11:54.812Z",
+  "version": "0.9.2",
+  "commit": "27058f0",
+  "releasedAt": "2026-11-16T11:57:56.362Z",
   "notes": [
-    "更新功能測試版",
-    "只有版本號不同"
+    "系統更新選單有新版本時顯示小亮點",
+    "打開系統更新頁會自動檢查最新版本"
   ],
   "urgent": false
 }
