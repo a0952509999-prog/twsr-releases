@@ -2,11 +2,12 @@
   "schema": 1,
   "product": "twsr-b",
   "channel": "stable",
-  "version": "0.9.0",
-  "commit": "7ef8945",
-  "releasedAt": "2026-11-14T15:15:05.628Z",
+  "version": "0.9.1",
+  "commit": "fb7e9c8",
+  "releasedAt": "2026-11-16T06:11:54.812Z",
   "notes": [
-    "初始版本"
+    "更新功能測試版",
+    "只有版本號不同"
   ],
   "urgent": false
 }
