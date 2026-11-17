@@ -2,11 +2,11 @@
   "schema": 1,
   "product": "twsr-free",
   "channel": "stable",
-  "version": "0.1.1",
-  "commit": "84d8917",
-  "releasedAt": "2026-11-17T02:47:27.392Z",
+  "version": "0.1.2",
+  "commit": "3fa62fe",
+  "releasedAt": "2026-11-17T03:48:49.163Z",
   "notes": [
-    "加入免費版授權碼申請入口與操作提示"
+    "免費授權申請連結常駐，系統更新選單亮點與自動檢查，Next.js 升至 16.4.6"
   ],
   "urgent": false
 }
