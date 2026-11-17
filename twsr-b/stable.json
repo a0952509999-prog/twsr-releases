@@ -2,12 +2,11 @@
   "schema": 1,
   "product": "twsr-b",
   "channel": "stable",
-  "version": "0.9.2",
-  "commit": "27058f0",
-  "releasedAt": "2026-11-16T11:57:56.362Z",
+  "version": "0.9.3",
+  "commit": "b5580b2",
+  "releasedAt": "2026-11-17T04:18:23.797Z",
   "notes": [
-    "系統更新選單有新版本時顯示小亮點",
-    "打開系統更新頁會自動檢查最新版本"
+    "Next.js 升級至 16.4.6，保留既有功能與更新流程"
   ],
   "urgent": false
 }
