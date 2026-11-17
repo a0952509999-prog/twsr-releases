@@ -3,10 +3,10 @@
   "product": "twsr-free",
   "channel": "stable",
   "version": "0.1.0",
-  "commit": "086d2cc",
-  "releasedAt": "2026-11-14T15:27:43.346Z",
+  "commit": "fc44b98",
+  "releasedAt": "2026-11-17T00:34:08.147Z",
   "notes": [
-    "初始版本"
+    "免費版第一個公開版本"
   ],
   "urgent": false
 }
