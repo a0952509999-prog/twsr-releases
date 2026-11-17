@@ -2,11 +2,12 @@
   "schema": 1,
   "product": "twsr-b",
   "channel": "stable",
-  "version": "0.9.4",
-  "commit": "13bd102",
-  "releasedAt": "2026-11-17T07:45:14.545Z",
+  "version": "0.9.5",
+  "commit": "43e4e24",
+  "releasedAt": "2026-11-17T10:07:31.710Z",
   "notes": [
-    "修正更新完成後下次更新按鈕消失的問題"
+    "後台各頁左上角的返回連結統一，返回時保留原本的搜尋與頁碼",
+    "移除後台頂端左上角沒有作用的圖示"
   ],
   "urgent": false
 }
