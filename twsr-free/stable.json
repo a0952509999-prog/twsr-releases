@@ -2,11 +2,11 @@
   "schema": 1,
   "product": "twsr-free",
   "channel": "stable",
-  "version": "0.1.0",
-  "commit": "fc44b98",
-  "releasedAt": "2026-11-17T00:34:08.147Z",
+  "version": "0.1.1",
+  "commit": "84d8917",
+  "releasedAt": "2026-11-17T02:47:27.392Z",
   "notes": [
-    "免費版第一個公開版本"
+    "加入免費版授權碼申請入口與操作提示"
   ],
   "urgent": false
 }
