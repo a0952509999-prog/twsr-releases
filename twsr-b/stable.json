@@ -2,11 +2,11 @@
   "schema": 1,
   "product": "twsr-b",
   "channel": "stable",
-  "version": "0.9.3",
-  "commit": "b5580b2",
-  "releasedAt": "2026-11-17T04:18:23.797Z",
+  "version": "0.9.4",
+  "commit": "13bd102",
+  "releasedAt": "2026-11-17T07:45:14.545Z",
   "notes": [
-    "Next.js 升級至 16.4.6，保留既有功能與更新流程"
+    "修正更新完成後下次更新按鈕消失的問題"
   ],
   "urgent": false
 }
