@@ -2,12 +2,11 @@
   "schema": 1,
   "product": "twsr-free",
   "channel": "stable",
-  "version": "0.1.5",
-  "commit": "fdb481a",
-  "releasedAt": "2026-11-19T14:07:50.345Z",
+  "version": "0.1.6",
+  "commit": "d70fcce",
+  "releasedAt": "2026-11-20T09:47:08.771Z",
   "notes": [
-    "新增站內計數：工作台顯示目前線上人數、今日訪客與今日瀏覽",
-    "物件列表新增累計瀏覽欄，編輯物件時顯示累計與今日瀏覽"
+    "新增網站圖標：網站設定可上傳瀏覽器分頁顯示的小圖"
   ],
   "urgent": false
 }
